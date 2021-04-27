@@ -1,2 +1,1 @@
-# amadyllo
-amadyllo website
+# aryamanmajumdar.github.io
